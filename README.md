@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">An old school php developer from Berlin</h3>
+<h3 align="center">An old php developer from Berlin</h3>
 
 - 🌱 I’m currently learning **CQRS, EventSourcing, Flutter**
 
